@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Map Ibtissam</string>
+    <string name="new_location">Lat: %1$f, Lng: %2$f\nAlt: %3$f, Acc: %4$f</string>
+</resources>

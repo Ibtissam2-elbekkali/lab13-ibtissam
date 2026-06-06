@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <gradient
+        android:angle="135"
+        android:startColor="@color/ibtissam_primary"
+        android:endColor="@color/ibtissam_primary_variant"
+        android:type="linear" />
+    <corners
+        android:bottomLeftRadius="64dp"
+        android:bottomRightRadius="64dp"/>
+</shape>

@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MapApplicationIbtissam" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/ibtissam_primary</item>
+        <item name="colorPrimaryVariant">@color/ibtissam_primary_variant</item>
+        <item name="colorOnPrimary">@color/ibtissam_on_primary</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/ibtissam_secondary</item>
+        <item name="colorSecondaryVariant">@color/ibtissam_secondary</item>
+        <item name="colorOnSecondary">@color/ibtissam_on_secondary</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
